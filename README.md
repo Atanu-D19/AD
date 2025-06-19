@@ -1,4 +1,4 @@
 # AD
 This is my first Git Repository.
 <br>
-Author - Atanu
+Author - Atanu Dinda
