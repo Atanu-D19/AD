@@ -1,4 +1,4 @@
-* {
+  * {
   padding: 0;
   margin: 0;
 }
@@ -43,13 +43,12 @@ h1 {
   background-color: #f2e9e4;
 }
 
-#reset-btn {
+#reset-btn {  
   padding: 1rem;
   font-size: 1.25rem;
   background-color: #22223b;
   color: #f2e9e4;
-  border-radius: 1rem;
-  border: none;
+  border-radius: 1rem; 
   box-shadow: 0 0 1rem #4a4e69;
 }
 
